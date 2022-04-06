@@ -1,14 +1,14 @@
 {
-    "name": "Abu_ser",
-    "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu.",
+    "name": "Zalioos",
+    "description": "Serhat is the Modified Version of WhatsAsena, Made By @zalioos.",
     "logo": "https://i.imgur.com/nLUMShe.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "ser", "bot", "ai"],
-    "repository": "https://github.com/Afx-Abu/Abu_ser",
-    "website":   "https://github.com/Afx-Abu/Abu_ser",
-    "success_url": "https://github.com/Afx-Abu/Abu_ser",
+    "repository": "https://www.instagram.com/zalioos ",
+    "website":   "Zalioos Bot",
+    "success_url": "Serhat Bot",
     "stack": "container",
     "env": {
-        "ABU_QR_CODE": {
+        "Serhat Code": {
             "description": "Type the code when you got by scanning Abu qr through WhatsApp.",
             "required": true
         },
