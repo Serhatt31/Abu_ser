@@ -1,8 +1,8 @@
 {
-  "name": "Abu_ser",
+  "name": "Zalioos",
   "version": "7.3.6",
-  "description": "Abu  is a Modified Version of WhatsAsena, Made By Ajx-Abu.",
-  "main": "./Abu_ser/bot.js",
+  "description": "Serhat  is a Modified Version of WhatsAsena, Made By Ajx-Abu.",
+  "main": "./Źalioos/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Afx-Abu",
-  "developer": "@Afx-Abu",
+  "author": "Zalioos",
+  "developer": "@Zalioos",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Afx-Abu/Abu_ser/issues"
